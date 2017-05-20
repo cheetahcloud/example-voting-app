@@ -1,18 +1,15 @@
-<<<<<<< HEAD
-![CHEETAH-DOCKER LEARNING LOGO](cheetah-docker-learning.png)
 =======
 Example Voting App
 =========
->>>>>>> docker/master
+
 
 Getting started
 ---------------
 
-<<<<<<< HEAD
 CHEETAH Version (based on "Docker-voting-app") to demonstrate a micro-services App with Docker.
-=======
+
 Download [Docker](https://www.docker.com/products/overview). If you are on Mac or Windows, [Docker Compose](https://docs.docker.com/compose) will be automatically installed. On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/).
->>>>>>> docker/master
+
 
 Run in this directory:
 ```
@@ -40,7 +37,6 @@ Architecture
 * A Postgres database backed by a Docker volume
 * A Node.js webapp which shows the results of the voting in real time
 
-<<<<<<< HEAD
 Customize it!
 -----
 
@@ -52,4 +48,3 @@ Note
 ----
 
 The voting application only accepts one vote per client. It does not register votes if a vote has already been submitted from a client.
->>>>>>> docker/master
