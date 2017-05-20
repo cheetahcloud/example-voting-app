@@ -37,7 +37,6 @@ Customize it!
 
 * Edit vote/app.py
 * Edit result/views/index.html
-=======
 
 Note
 ----
